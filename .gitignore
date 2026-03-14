@@ -1,0 +1,25 @@
+# Data
+data/*.txt
+data/raw_TinyShakespeare/
+data/shakespeare/
+
+# Model checkpoints
+checkpoints/
+
+# Tokenizer (generated artifact)
+tokenizer.json
+
+# Wandb
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / local config
+CLAUDE.md
+.claude/
+.DS_Store
