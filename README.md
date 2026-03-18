@@ -82,7 +82,7 @@ This triggers normal checkpoint saving and wandb finalisation.
 
 ## Data
 
-Data lives in `../data/` (outside this repo):
+Data lives in `data/`:
 
 - `full_train.txt` — full training corpus
 - `tiny_val.txt` — small held-out set used for BPC benchmarking across all runs

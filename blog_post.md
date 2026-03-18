@@ -357,3 +357,7 @@ Key files:
 ---
 
 *Written March 2026. Model trained on an NVIDIA GPU via Lightning AI studio.*
+
+---
+
+**Part 2** covers what happened next: training on the full Works of Shakespeare, a data volume ablation that validated the predictions above, and implementing LoRA from scratch. [Read it here.](blog_post_2.md)
